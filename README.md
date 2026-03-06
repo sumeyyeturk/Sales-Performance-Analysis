@@ -24,7 +24,7 @@ The goal of this project is to analyze sales, profit, and quantity metrics acros
 
 ---
 
-## 🔍 Key Insights (Executive Summary)
+## 🔍 Key Insights 
 After analyzing the dataset, the following business insights were discovered:
 
 1. **High-Margin Segments:** While **Technology** and **Office Supplies** represent roughly half of the sales volume, they contribute the vast majority of the company's total profit.
@@ -40,12 +40,5 @@ The project utilizes advanced SQL queries to prepare data for visualization. Key
 - Calculating profit margins as a percentage of revenue.
 
 ---
-
-## 📊 Dashboard Preview
-(dashboard.png.JPG)
-
----
-
 ## 🎯 Conclusion
 This project demonstrates the ability to translate raw data into actionable business intelligence. By identifying high-performing regions and low-margin categories, stakeholders can make data-driven decisions to optimize inventory and marketing spend.
-
