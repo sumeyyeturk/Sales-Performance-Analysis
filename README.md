@@ -42,7 +42,7 @@ The project utilizes advanced SQL queries to prepare data for visualization. Key
 ---
 
 ## 📊 Dashboard Preview
-(dashboard.png)
+(dashboard.png.JPG)
 
 ---
 
